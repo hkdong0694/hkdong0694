@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  깃허브 상태             |  사용 언어
-:-------------------------:|:-------------------------:
-<img src="https://github-readme-stats.vercel.app/api?username=hkdong0694&show_icons=true" width="100%" hegith="300">   |    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkdong0694&layout=compact" width="100%" hegith="500">
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hkdong0694&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkdong0694&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
